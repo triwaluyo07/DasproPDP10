@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512806843 source:d:\pdp10\array1c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512817542 source:e:\daspro\pdp10\array1c\main.c
+	<stdio.h>
+	<stdlib.h>
+

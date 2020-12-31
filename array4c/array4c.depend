@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1512816634 source:d:\pdp10\array4c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1512817542 source:f:\daspro\pdp10\array4c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1512992352 source:e:\daspro\pdp10\array4c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
